@@ -2,9 +2,11 @@ import React from "react";
 
 function Article() {
   return (
+    <body>
     <div>
-      {/* please pass this test */}
+      <div>please pass this test</div>
     </div>
+  </body>
   );
 }
 
